@@ -18,3 +18,5 @@ const MaxWidthWrapper = ({
     </div>
   );
 };
+
+export default MaxWidthWrapper;
